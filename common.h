@@ -1,5 +1,5 @@
 #pragma once
 
-struct data {
+typedef struct {
     char ch;
-};
+} data_t;
